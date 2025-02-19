@@ -3,7 +3,7 @@
 ## Introduction
 The purpose of the project is to advise PowerCo on how to retain their customers. PowerCo is a Major gas & electricity utility company that supplies to small & medium sized enterprises. Powerco has consulted BCG X, a consulting company to advise them on how to retain their customers. 
 
-This is a capstone project for a machine learning module done for a data science course. 
+This is a capstone project for a Supervised Machine learning module done for a data science course. 
 
 ### Methods Used
 - Descriptive statistics
